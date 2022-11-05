@@ -58,7 +58,6 @@ main {
   color: #fff;
 }
 
-
 .title {
   margin: 15px 0 5px;
 }
@@ -79,7 +78,8 @@ main {
 
 .step-box {
   width: 100%;
-  margin-right: 30px;
+  margin: 20px 0;
+
 
 }
 
